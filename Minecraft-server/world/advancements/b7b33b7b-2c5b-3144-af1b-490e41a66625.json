@@ -1,0 +1,40 @@
+{
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2024-03-17 21:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-03-17 21:37:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2024-03-17 21:37:13 +0000",
+      "cold_desert": "2024-03-17 21:38:52 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-03-17 21:37:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "shrubland": "2024-03-17 21:37:13 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_snowy": "2024-03-17 21:38:52 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
